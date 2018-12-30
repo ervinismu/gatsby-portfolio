@@ -272,7 +272,7 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
+            Say <a href="mailto:social.ervin@gmail.com">Hi</a> or find me on other platforms:{' '}
             <a href="https://www.instagram.com/ervinismu">Instagram</a>
           </ContactText>
         </Inner>
